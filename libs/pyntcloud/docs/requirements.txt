@@ -1,0 +1,5 @@
+numpy
+scipy
+pandas
+numba
+sphinx_bootstrap_theme
