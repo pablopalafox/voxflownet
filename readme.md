@@ -24,9 +24,7 @@ This work was done as part of my Guided Research at the [Visual Computing Lab at
 
 Author: [Pablo Rodriguez Palafox](https://pablorpalafox.github.io/)  
 Supervisor: [Prof. Matthias Niessner](https://www.niessnerlab.org/members/matthias_niessner/profile.html) 
-
 [Visual Computing Group at TUM](https://www.niessnerlab.org/)
-
 [Technical University Munich](https://www.tum.de/)  
 
 
