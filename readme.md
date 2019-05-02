@@ -14,7 +14,7 @@ Learning Scene Flow in Point Clouds through Voxel Grids
 
 
 <p align="center">
-	<img src="/assets/pipeline.pdf" alt="pipeline">
+	<img src="https://github.com/pablorpalafox/voxflownet/doc/pipeline.pdf" alt="pipeline">
 </p>
 
 This work was done as part of my Guided Research at the [Visual Computing Lab at TUM](https://www.niessnerlab.org/) under the supervision of Prof. Matthias Niessner. For more info on the project, check my [report](/assets/report.pdf).
