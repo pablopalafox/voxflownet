@@ -1,7 +1,7 @@
 # VoxFlowNet
 Learning Scene Flow in Point Clouds through Voxel Grids
 
-| | |
+<!-- | | |
 |:-------------------------:|:-------------------------:|
 |<img alt="test_3" src="/assets/images/test_munich/test_3.png">  |  <img alt="test_3_output" src="/assets/images/test_munich/test_3_output.png">|
 |<img alt="test_3_ALL" src="/assets/images/test_munich/test_3_ALL.png">  |  <img alt="test_3_planes" src="/assets/images/test_munich/test_3_planes.png">|
@@ -10,7 +10,7 @@ Learning Scene Flow in Point Clouds through Voxel Grids
 	<img src="/assets/images/result_stuttgart.gif" alt="result_on_stuttgart_video">
 </p>
 
-<a name="intro"></a>
+<a name="intro"></a> -->
 
 
 <p align="center">
