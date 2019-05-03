@@ -47,7 +47,7 @@ The data preprocessing tools are in `generate_dataset`. Firts download the raw [
   frames_finalpass/
 ```
 
-Then `cd` into `generate_dataset and execute the following command:
+Then `cd` into `generate_dataset` and execute the following command:
 
 ```bash
 python generate_Flying.py
