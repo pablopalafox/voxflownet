@@ -57,7 +57,10 @@ python generate_Flying.py
 
 ### Training
 
-Make sure that the 'do_train' flag is set to 'True' in 'config.py'. Also configure the number of 'epochs', 'batch_sizes' and other stuff to what you need. By setting 'OVERFIT' to 'True' you can just overfit to some examples, which can be set in 'sequences_to_train'.
+Make sure that the `do_train` flag is set to `True` in `config.py`. Also configure the number of `epochs`, `batch_sizes and the path to the processed dataset as well as to where the model should be saved.
+
+By setting `OVERFIT` to `True` you can just overfit to some examples, which can be set in 'sequences_to_train'.
+
 
 ```bash
 python main.py
@@ -65,7 +68,7 @@ python main.py
 
 ### Evaluation
 
-In 'config.py' set the 'do_train' flag to 'False'. Set 'model_dir_to_use_at_eval' to the name of the model you want to evaluate.
+In `config.py` set the `do_train` flag to `False`. Set `model_dir_to_use_at_eval` to the name of the model you want to evaluate.
 
 ```bash
 python main.py
