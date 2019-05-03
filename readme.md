@@ -57,9 +57,9 @@ python generate_Flying.py
 
 ### Training
 
-Make sure that the `do_train` flag is set to `True` in `config.py`. Also configure the number of `epochs`, `batch_sizes and the path to the processed dataset as well as to where the model should be saved.
+Make sure that the `do_train` flag is set to `True` in `config.py`. Also configure the number of `epochs`, `batch_sizes` and the path to the processed dataset as well as to where the model should be saved.
 
-By setting `OVERFIT` to `True` you can just overfit to some examples, which can be set in `sequences_to_train`.
+By setting `OVERFIT` to `True` you can just overfit to some examples, which can be set in `sequences_to_train.
 
 
 ```bash
